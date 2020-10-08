@@ -6,6 +6,8 @@ Hi, my name is Alma Alvarado, welcome to my GitHub!
 
 ⇴ 💻 I’m majoring in Computer Science 
 
+⇴ 💻 My programming languages include: Python, Java, C++, HTML, CSS, and SQL 
+
 ⇴ 🐳 I’m looking to collaborate on Open Source projects to become a better programmer
 
 ⇴ 🧐 I’m am currently looking for internship opportunities for Summer 2021
@@ -16,6 +18,3 @@ Hi, my name is Alma Alvarado, welcome to my GitHub!
 
 <!--
 **almaavocado/almaavocado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
