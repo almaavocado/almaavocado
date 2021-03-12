@@ -10,7 +10,7 @@ Hi, my name is Alma Alvarado, welcome to my GitHub!
 
 ⇴ 🐳 I’m looking to collaborate on Open Source projects to become a better programmer
 
-⇴ 🧐 I’m am currently looking for internship opportunities for Summer 2021
+⇴ 🧐 I’m am an incoming Spotify Backend Engineering Intern for Summer 2021
 
 ⇴ 💬 I have been working on my website: www.almaavocado.com
 
