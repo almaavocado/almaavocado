@@ -12,7 +12,7 @@ Hi, my name is Alma Alvarado, welcome to my GitHub!
 
 ⇴ 🧐 I’m a Spotify Backend Engineering Intern for Summer 2021
 
-⇴ 💬 I have been working on my website: www.almaavocado.com
+⇴ 💬 I have been working on a website
 
 ⇴ ✨ Fun fact: My favorite thing to do is listen to music and go to concerts 🎸
 
