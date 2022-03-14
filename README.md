@@ -6,7 +6,7 @@ Hi, my name is Alma Alvarado, welcome to my GitHub!
 
 ⇴ 💻 I’m majoring in Computer Science 
 
-⇴ 💻 My programming languages include: Python, Java, C++, HTML, CSS, and SQL 
+⇴ 💻 My programming languages include: Python, Java, C++, HTML, CSS, JavaScript and SQL 
 
 ⇴ 🐳 I’m looking to collaborate on Open Source projects to become a better programmer
 
