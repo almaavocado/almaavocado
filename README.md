@@ -27,7 +27,7 @@ Hi, my name is Alma Alvarado, welcome to my GitHub!
 
 ## Now Playing 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/almalisettealvarado)
-<br/>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=almalisettealvarado&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)<br/>
+
 <!--
 **almaavocado/almaavocado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
