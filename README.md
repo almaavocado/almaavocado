@@ -6,15 +6,9 @@ Hi, my name is Alma Alvarado, welcome to my GitHub!
 
 ⇴ 💻 I’m majoring in Computer Science 
 
-⇴ 💻 My programming languages include: Python, Java, C++, HTML, CSS, JavaScript and SQL 
 
-⇴ 🐳 I’m looking to collaborate on Open Source projects to become a better programmer
+![Alma's GitHub stats](https://github-readme-stats.vercel.app/api?username=almaavocado&show_icons=true&theme=radical)
 
-⇴ 🧐 I’m a Spotify Backend Engineering Intern for Summer 2021
-
-⇴ 💬 I have been working on a website
-
-⇴ ✨ Fun fact: My favorite thing to do is listen to music and go to concerts 🎸
 
 <!--
 **almaavocado/almaavocado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
