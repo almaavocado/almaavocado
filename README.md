@@ -34,12 +34,13 @@ Hi, my name is Alma Alvarado, welcome to my GitHub!
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=almaavocado&repo=automatespotify&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
+<!--
 ## GitHub Stats
 ![Alma's GitHub stats](https://github-readme-stats.vercel.app/api?username=almaavocado&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=almaavocado&layout=compact&theme=tokyonight)](https://github.com/almaavocado/github-readme-stats)
 
-<!--
+
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
 <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a> -->
