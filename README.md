@@ -11,7 +11,7 @@ Hi, my name is Alma Alvarado, welcome to my GitHub!
 
 ## GitHub Stats
 ![Alma's GitHub stats](https://github-readme-stats.vercel.app/api?username=almaavocado&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=almaavocado&theme=tokyonight)](https://github.com/almaavocado/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=almaavocado&layout=compact&theme=tokyonight)](https://github.com/almaavocado/github-readme-stats)
 <!--
 **almaavocado/almaavocado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
