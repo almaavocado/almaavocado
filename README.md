@@ -7,7 +7,7 @@ Hi, my name is Alma Alvarado, welcome to my GitHub!
 ⇴ 💻 I’m majoring in Computer Science 
 
 
-![Alma's GitHub stats](https://github-readme-stats.vercel.app/api?username=almaavocado&show_icons=true&theme=radical)
+![Alma's GitHub stats](https://github-readme-stats.vercel.app/api?username=almaavocado&show_icons=true&theme=tokyonight)
 
 
 <!--
