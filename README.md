@@ -1,4 +1,4 @@
-### Hi there, Welcome to my GitHub 👋
+## Hi there, Welcome to my GitHub 👋
 
 Hi, my name is Alma Alvarado, welcome to my GitHub!
 
