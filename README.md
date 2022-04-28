@@ -46,9 +46,10 @@ Hi, my name is Alma Alvarado, welcome to my GitHub!
 <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a> -->
 
 ## &#x1f4c8; TryHackMe Stats
-
 Top 5% Rank
-<script src="https://tryhackme.com/badge/892400"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/fallenphoenix.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/fallenphoenix.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/fallenphoenix.png" alt="TryHackMe">
 
 <!--
 **almaavocado/almaavocado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
