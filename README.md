@@ -48,6 +48,7 @@ Hi, my name is Alma Alvarado, welcome to my GitHub!
 ## &#x1f4c8; TryHackMe Stats
 Top 5% Rank
 </br>
+</br>
 <img src="https://tryhackme-badges.s3.amazonaws.com/fallenphoenix.png" alt="TryHackMe">
 
 
