@@ -47,7 +47,8 @@ Hi, my name is Alma Alvarado, welcome to my GitHub!
 
 ## &#x1f4c8; TryHackMe Stats
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/fallenphoenix.png" alt="TryHackMe">
+Top 5% Rank
+<script src="https://tryhackme.com/badge/892400"></script>
 
 <!--
 **almaavocado/almaavocado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
