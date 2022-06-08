@@ -8,6 +8,8 @@ Hi, my name is Alma Alvarado, welcome to my GitHub!
 
 ⇴ 🔗 Connect with me through [LinkedIn](https://www.linkedin.com/in/almaalvarado11/)
 
+![](https://komarev.com/ghpvc/?username=almaavocado&label=PROFILE+VIEWS)
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
