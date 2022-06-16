@@ -25,10 +25,10 @@ Hi, my name is Alma Alvarado, welcome to my GitHub!
 
 ## &#x1f4c8; GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=almaavocado&hide=jupyternotebooks,html)](https://github.com/almaavocado/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=almaavocado&hide=jupyter%20notebook)](https://github.com/almaavocado/github-readme-stats)
 
 <a href="https://github.com/almaavocado/almaavocado">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almaavocado&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almaavocado&hide=jupyter%20notebook&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/almaavocado/almaavocado">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=almaavocado&show_icons=true&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Alma's GitHub Stats" />
