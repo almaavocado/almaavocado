@@ -8,7 +8,6 @@ Hi, my name is Alma Alvarado, welcome to my GitHub!
 
 ## Follow Me
 
-[![Gmail Badge](https://img.shields.io/badge/-almalisettealvarado@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:almalisettealvarado@gmail.com.com)](mailto:almalisettealvardo@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-almaalvarado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/almaalvarad011/)](https://www.linkedin.com/in/almaalvarado11/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/almaavocado)](https://github.com/almaavocado)
 
