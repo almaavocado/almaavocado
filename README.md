@@ -37,7 +37,7 @@ Hi, my name is Alma Alvarado, welcome to my GitHub!
 
 
 <a href="https://github.com/almaavocado/Artificial-Intelligence">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=almaavocado&repo=Artificial-Intelligence&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=almaavocado&repo=Artificial-Intelligence&hide=jupyter%20notebook&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 <!--
