@@ -2,7 +2,7 @@
 
 Hi, my name is Alma Alvarado, welcome to my GitHub!
 
-⇴ 👩🏽‍ I graduated from California State University, Long Beach in May 2022
+⇴ 👩🏽‍ I graduated from California State University, Long Beach
 
 ⇴ 💻 I have a Bachelor of Science in Computer Science 
 
